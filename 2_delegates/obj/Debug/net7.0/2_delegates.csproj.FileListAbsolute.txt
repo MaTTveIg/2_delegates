@@ -1,0 +1,15 @@
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\bin\Debug\net7.0\2_delegates.exe
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\bin\Debug\net7.0\2_delegates.deps.json
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\bin\Debug\net7.0\2_delegates.runtimeconfig.json
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\bin\Debug\net7.0\2_delegates.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\bin\Debug\net7.0\2_delegates.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\refint\2_delegates.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\2_delegates.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\2_delegates\obj\Debug\net7.0\ref\2_delegates.dll
